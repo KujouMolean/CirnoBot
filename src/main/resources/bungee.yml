@@ -1,0 +1,3 @@
+name: CrinoBot
+version: ${project.version}
+main: com.molean.crinobot.CrinoBot
